@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/big-four-accountants/static/css/main.300c099c.chunk.css",
+    "main.js": "/big-four-accountants/static/js/main.2845f7e6.chunk.js",
+    "main.js.map": "/big-four-accountants/static/js/main.2845f7e6.chunk.js.map",
+    "runtime-main.js": "/big-four-accountants/static/js/runtime-main.690446ac.js",
+    "runtime-main.js.map": "/big-four-accountants/static/js/runtime-main.690446ac.js.map",
+    "static/js/2.d932d3d7.chunk.js": "/big-four-accountants/static/js/2.d932d3d7.chunk.js",
+    "static/js/2.d932d3d7.chunk.js.map": "/big-four-accountants/static/js/2.d932d3d7.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/big-four-accountants/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/big-four-accountants/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/big-four-accountants/index.html",
+    "static/css/main.300c099c.chunk.css.map": "/big-four-accountants/static/css/main.300c099c.chunk.css.map",
+    "static/js/2.d932d3d7.chunk.js.LICENSE.txt": "/big-four-accountants/static/js/2.d932d3d7.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/big-four-accountants/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.690446ac.js",
+    "static/js/2.d932d3d7.chunk.js",
+    "static/css/main.300c099c.chunk.css",
+    "static/js/main.2845f7e6.chunk.js"
+  ]
+}
